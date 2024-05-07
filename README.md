@@ -7,7 +7,7 @@ Calculator built using ReactJs and MathJs.
 Demo
 ---
 
-[kml1990.github.io/react-calculator/](https://kml1990.github.io/react-calculator/)
+[kml1990.github.io/react-calculator/]((https://saran2k.github.io/React-Calculator/))
 
 
 Install
